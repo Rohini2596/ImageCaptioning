@@ -3,7 +3,6 @@ Features:
   1. Generates captions for input images
   2. Uses pretrained BLIP model
   3. Simple and interactive Gradio UI
-  4. Easy to run locally
 Technologies Used:
   a) Python
   b) PyTorch
