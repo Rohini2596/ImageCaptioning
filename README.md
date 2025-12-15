@@ -1,12 +1,12 @@
 This project implements an image captioning system using a pretrained BLIP (Bootstrapped Language-Image Pretraining) model from Hugging Face. The model generates natural language descriptions for input images and provides a simple Gradio web interface for interaction.
 Features:
-  Generates captions for input images
-  Uses pretrained BLIP model
-  Simple and interactive Gradio UI
-  Easy to run locally
+  1. Generates captions for input images
+  2. Uses pretrained BLIP model
+  3. Simple and interactive Gradio UI
+  4. Easy to run locally
 Technologies Used:
-  Python
-  PyTorch
-  Hugging Face Transformers
-  Gradio
-  PIL (Pillow)
+  a) Python
+  b) PyTorch
+  c) Hugging Face Transformers
+  d) Gradio
+  e) PIL (Pillow)
